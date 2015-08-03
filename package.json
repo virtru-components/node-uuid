@@ -1,0 +1,5 @@
+{
+  "name": "node-uuid",
+  "description": "Simple, fast generation of RFC4122 UUIDs",
+  "version": "1.3.4"
+}
